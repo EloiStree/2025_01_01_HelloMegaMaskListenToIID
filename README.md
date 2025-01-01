@@ -1,17 +1,16 @@
+
+
 # 2025_01_01_HelloMegaMaskListenToIID
 
-See: https://github.com/EloiStree/2025_01_01_HelloMegaMaskPushToIID.git
+See: [https://github.com/EloiStree/2025_01_01_HelloMegaMaskPushToIID.git](https://github.com/EloiStree/2025_01_01_HelloMegaMaskPushToIID.git)
 
-Allow to listen to index value that is linked to your MetaMask account
+This tool allows you to listen for index values linked to your MetaMask account.
 
+In the system I'm building, some sources push integer values, while other devices only listen to them.
 
-In the tool I am creating, you have some source that push integer value.
-But you have other device that only listen to them.
+This code specifically enables the listening of those integer values.
 
-In here, this code allows to listen to integer value.
-
-If you are looking to mush
-
+If you're looking for something similar...
 
 
 
