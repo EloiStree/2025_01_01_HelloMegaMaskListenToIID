@@ -8,10 +8,7 @@ This tool allows you to listen for index values linked to your MetaMask account.
 
 In the system I'm building, some sources push integer values, while other devices only listen to them.
 
-This code specifically enables the listening of those integer values.
-
-If you're looking for something similar...
-
+This code specifically enables a websocket server the listening of those integer values.
 
 
 _________________
